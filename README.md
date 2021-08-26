@@ -1,3 +1,9 @@
+
+  <a href="https://github.com/deborahbaltasar/deborahbaltasar/blob/main/README_V2.md" target="_blank">
+    Read me in English
+  </a>
+
+
 ## Oiii! Eu sou a Deborah Baltasar
 
 <!--
