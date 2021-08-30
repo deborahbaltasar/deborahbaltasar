@@ -1,5 +1,5 @@
 
-## Heey! I'm Deobrah Baltsasar
+## Heey! I'm Deborah Baltasar
  ### Github Stats
  <div>
  
