@@ -3,9 +3,9 @@
     Read me in English
   </a>
 
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=deborahbaltasar&repo=deborahbaltasar&countColorcountColor&countColor=%237B1E7B">
 
 ## Oiii! Eu sou a Deborah Baltasar
-
 <!--
 **deborahbaltasar/deborahbaltasar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
