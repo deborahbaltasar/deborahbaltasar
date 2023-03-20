@@ -3,8 +3,6 @@
     Read me in English
   </a>
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=deborahbaltasar&repo=deborahbaltasar&countColorcountColor&countColor=%237B1E7B">
-
 ## Oiii! Eu sou a Deborah Baltasar
 <!--
 **deborahbaltasar/deborahbaltasar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,9 +38,6 @@ Here are some ideas to get you started:
   ##
 
   <div> 
-   <a href="https://gitlab.com/deborahbaltasar" target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank">
-  </a>
   <a href="https://linkedin.com/in/deborah-baltasar" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
